@@ -2,8 +2,6 @@
 
 FeedPulse is a full-stack application where users submit product feedback and admins manage submissions with AI-powered analysis from Google Gemini.
 
-This implementation includes all Must-Have requirements from the assignment PDF. Bonus/Nice-to-Have tasks are intentionally excluded except where lightweight additions do not conflict.
-
 ## Tech Stack
 
 - Frontend: Next.js 14 (App Router), TypeScript, Tailwind CSS
@@ -103,12 +101,6 @@ npm run dev
 - `DELETE /api/feedback/:id`
 - `GET /api/feedback/summary`
 
-## Screenshots
-
-Add at least 2 screenshots here before submission, e.g.:
-
-- Public feedback form
-- Admin dashboard with sentiment and priority
 
 ## What I Would Build Next
 
