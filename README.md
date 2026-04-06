@@ -104,10 +104,8 @@ npm run dev
 ## Screenshots
   
 ![Admin Dashboard](https://github.com/user-attachments/assets/2cd2bec4-ae4c-4d05-ac59-15d260b09516)
-![login](https://github.com/user-attachm![interface](https://github.com/user-attachments/assets/b433bfec-17bb-4c88-bca2-70df9e63ae1b)
-ents/assets/8add8f36-b5b3-402c-89ba-e7303035fcd9)
-
-
+![login](https://github.com/user-attachments/assets/18b3badf-02f1-4f29-8749-9cc01b16c3de)
+![interface](https://github.com/user-attachments/assets/3e966880-d4c4-400b-ae24-4b98a195a799)
 
 
 ## What I Would Build Next
