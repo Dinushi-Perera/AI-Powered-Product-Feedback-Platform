@@ -101,6 +101,14 @@ npm run dev
 - `DELETE /api/feedback/:id`
 - `GET /api/feedback/summary`
 
+## Screenshots
+  
+![Admin Dashboard](https://github.com/user-attachments/assets/2cd2bec4-ae4c-4d05-ac59-15d260b09516)
+![login](https://github.com/user-attachm![interface](https://github.com/user-attachments/assets/b433bfec-17bb-4c88-bca2-70df9e63ae1b)
+ents/assets/8add8f36-b5b3-402c-89ba-e7303035fcd9)
+
+
+
 
 ## What I Would Build Next
 
